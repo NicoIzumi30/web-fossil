@@ -22,11 +22,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 
-# Sistem Informasi Bank Sampah
-
-Website Fossil
-
-
+# Website Fossil
 
 ## Installation
 
